@@ -1,0 +1,14 @@
+{
+  "name": "mcp-sample-server-js",
+  "version": "1.0.0",
+  "description": "Sample MCP-style manifest server in Node.js for testing MCP Explorer.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Arunesh Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
