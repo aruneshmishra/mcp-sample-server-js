@@ -41,4 +41,7 @@ This gives developers something realistic to test MCP clients against.
 
 ## 📦 Installation
 
-### Clone the re
+### Clone the repo
+```bash
+git clone https://github.com/aruneshmishra/mcp-sample-server-js.git
+cd mcp-sample-server-js
